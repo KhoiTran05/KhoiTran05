@@ -18,14 +18,11 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
-
-<br>
-
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL">
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -34,7 +31,24 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,aws" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apacheairflow,apachespark,apachehadoop,apachehive,kafka,postgresql,mysql" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Apache Hadoop">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=400 src="https://github-readme-stats-kappa-ecru-35.vercel.app/api?username=KhoiTran05&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&hide_border=true" alt="KhoiTran05's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats-kappa-ecru-35.vercel.app/api/top-langs?username=KhoiTran05&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&hide_border=true&hide=shell,html" alt="KhoiTran05's Most Used Languages" />
+
+</div>
 
 <hr>
