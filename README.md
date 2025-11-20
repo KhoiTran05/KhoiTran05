@@ -4,8 +4,12 @@
 </h1>
 
 ### Aspiring Data Engineer focused on building and optimizing data pipelines, eager to contribute to scalable data architectures and robust ETL processes.
-- 🌱 I’m currently learning **[Data Orchestration with Airflow](https://airflow.apache.org/)** and **[Distributed Data Processing with PySpark](https://spark.apache.org/docs/latest/api/python/)**.
-- 💬 Contact me on
+📝 **Full name:** Tran Le Minh Khoi  
+📍 **Location:** Hanoi, Vietnam    
+🌐 **Languages:** Vietnamese (native), English (C1)  
+🎓 **Education:** Third-year [Computer Science](https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-4-2/) student at  <img src="https://media.loveitopcdn.com/3807/logo-dh-quoc-gia-ha-noi-vector-dongphucsongphu2.png" alt="VNU-UET logo" width="50" style="vertical-align:middle;"/> [VNU-UET](https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_C%C3%B4ng_ngh%E1%BB%87,_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_H%C3%A0_N%E1%BB%99)   *(expected graduation: 2027)*  
+🌱 I’m currently learning **[Data Orchestration with Airflow](https://airflow.apache.org/)** and **[Distributed Data Processing with PySpark](https://spark.apache.org/docs/latest/api/python/)**.  
+💬 Contact me on
 
 <br>
 
