@@ -44,15 +44,3 @@
 </p>
 
 <hr>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=400 src="https://github-readme-stats-kappa-ecru-35.vercel.app/api?username=KhoiTran05&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&hide_border=true" alt="KhoiTran05's GitHub Stats" />
-  <img width=390 src="https://github-readme-stats-kappa-ecru-35.vercel.app/api/top-langs?username=KhoiTran05&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&hide_border=true&hide=shell,html" alt="KhoiTran05's Most Used Languages" />
-
-</div>
-
-<hr>
